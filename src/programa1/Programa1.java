@@ -25,7 +25,7 @@ public class Programa1 {
         
         lectura.close();
         // fin de las instrucciones
-        // prueba2
+        // prueba2.1
     }
 }
 
